@@ -1,8 +1,8 @@
-Die App funktioniert, indem sie geschlossene TCP-Ports von Smartphones in Ihrem Wi-Fi Netzwerk erkennt. Dies funktioniert auch ohne Installation der Homey-App und ermöglicht es Ihnen auch Gäste zu erkennen.
+Die App funktioniert indem sie geschlossene TCP-Ports von Smartphones in Ihrem Wi-Fi Netzwerk erkennt. Dies funktioniert auch ohne Installation der Homey-App und ermöglicht es Ihnen auch Gäste mit einzubeziehen.
 
 Installation:
 
-Führen Sie bitte folgende Schritte aus um ein Gerät hinzuzufügen:
+Um ein Gerät hinzuzufügen, führen Sie bitte folgende Schritte durch:
 
 1. Ermitteln Sie die IP-Adresse des Smartphones. Dies kann über die Administrator-Benutzeroberfläche des WLAN-Routers erfolgen.
 2. Weisen Sie dem Smartphone eine feste IP-Adresse zu. Dies erfolgt ebenfalls über die Administrator-Benutzeroberfläche des WLAN-Routers.
